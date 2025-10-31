@@ -12,7 +12,7 @@ Allows for quickly equipping character with one of saved builds.</div>
 #### After first launch in your `Grasscutter_Folder/Plugins/CharacterBuilder` will be generated new file called `builds.json`.
 There you can **add/remove/edit** current builds.  <br />
 Plugin requests this file each time you use any form of `/build` command so you don't need to restart server after every change. \
-I'm open for extending current build list, so if you have any good builds that you want to share, make pull request(i dont think that developer of this plugin here.) on github or dm me on discord: <a href="https://discord.com/users/276265598508466176">Penelopeep#7963</a>
+I'm open for extending current build list, so if you have any good builds that you want to share, make pull request(i dont think that developer of this plugin here.) on github or dm me on discord:zhongli_main_23223132_23482421(profile name)
 Dipnote:You should put my Builds.json if it isnt works.Check resources/builds from [this](https://github.com/kaedari1/CharacterBuilderUpdate/blob/main/src/main/resources/builds.json) page :3
 
 ## FAQ
@@ -23,5 +23,6 @@ Dipnote:You should put my Builds.json if it isnt works.Check resources/builds fr
 3. How to make builds: 
     - Look into [editing builds.json](Artifacts.md)
 ### Version
-The plugin currently for Grasscutter version `1.7.3` (probably, I haven't tested).
+This plugin for any version of Grasscutter(Up to 6.1 game version.)
 Credits: ZeroHazel#2017 for some builds <3
+         and [Penelopeep](https://github.com/Penelopeep/) for creating this plugin.
